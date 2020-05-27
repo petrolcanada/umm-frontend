@@ -1,0 +1,1 @@
+To use await/async you need methods that return promises. The core API functions don't do that without wrappers like promisify:
